@@ -8,7 +8,8 @@
     body {
       margin: 0;
       font-family: 'Arial', sans-serif;
-      background: url('https://images.unsplash.com/photo-1573497019410-2078e30b62a1?auto=format&fit=crop&w=1280&q=80') no-repeat center center fixed;
+      background: url('![image](https://github.com/user-attachments/assets/ee21fdd5-38af-4813-bcf5-7eadd2ad894b)
+') no-repeat center center fixed;
       background-size: cover;
       color: white;
       text-align: center;
